@@ -1,0 +1,11 @@
+1. Que diferencia hay entre un igual ( = ) y un doble ( == )
+Respuesta:
+= se usa para asignar un valor a una variable.
+== se usa para comparar dos valores.
+2. Cuales son los tipos de datos básico de java.
+Respuesta:
+-byte, short, int, long, float, double, boolean, char.
+3. Quién es la empresa que actualmente se encarga de mantener el desarrollo de 
+java.
+Respuesta: Oracle.
+4. En qué otros campos se puede utilizar java para crear software
